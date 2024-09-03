@@ -1,6 +1,6 @@
 # Simulations
 
-Projects focuses on using Genetic Algorithms and basic Neural Networks to play games and simulate natural or emergent processes.
+Projects focusing on using Genetic Algorithms and basic Neural Networks to play games and simulate natural or emergent processes.
 
 
 ## Unsupervised learning 
