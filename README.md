@@ -9,13 +9,13 @@ The algorithms used in jumpy-bird and jumpy bricks are examples of using a genet
 
 ## Jumpy Bricks Simulation
 
-Agents must jump over incoming bricks or they crash are are elininated from the current generation.
+Agents must jump over incoming bricks or they crash and are elininated from the current generation.
 ![Jumpy Bricks](./docs/jumpy-bricks.gif)
 
 
 ## Jumpy Bird Simulation
 
-Birds must navigated between pipes while avoiding crashing into the ground.
+Birds must navigate through the course while avoiding pipes and keeping themselves from hitting the ground.
 
 
 ![Jumpy Bird](./docs/jumpybird-1.gif)
