@@ -2,6 +2,8 @@
 
 The algorithm used in jumpy-bird is an example of using a genetic algorithm (GA) combined with a neural network to create and evolve an intelligent agent. This approach differs significantly from traditional neural network training methods, such as backpropagation, which is commonly used in supervised learning.
 
+[Jumpy Bird](./docs/jumpybird-1.gif)
+
 ### Differences from a Typical Neural Network Setup
 
 1. **Learning Methodology**:
@@ -21,6 +23,8 @@ The algorithm used in jumpy-bird is an example of using a genetic algorithm (GA)
    - **Typical Neural Network**: Requires labeled training data. The learning process depends on large amounts of data for supervised learning tasks.
 
 ### How the Model Evolves
+
+[Jumpy Bird](./docs/jumpybird.gif)
 
 1. **Initialization**: A population of birds (agents) is initialized, each with a random neural network (random weights and biases). This represents the initial genetic diversity.
 
