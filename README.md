@@ -1,6 +1,22 @@
-## Unsupervised learning in Jumpy Bird
+# Simulations
 
-The algorithm used in jumpy-bird is an example of using a genetic algorithm (GA) combined with a neural network to create and evolve an intelligent agent. This approach differs significantly from traditional neural network training methods, such as backpropagation, which is commonly used in supervised learning.
+Projects focuses on using Genetic Algorithms and basic Neural Networks to play games and simulate natural or emergent processes.
+
+
+## Unsupervised learning 
+
+The algorithms used in jumpy-bird and jumpy bricks are examples of using a genetic algorithm (GA) combined with a neural network to create and evolve an intelligent agent. This approach differs significantly from traditional neural network training methods, such as backpropagation, which is commonly used in supervised learning.
+
+## Jumpy Bricks Simulation
+
+Agents must jump over incoming bricks or they crash are are elininated from the current generation.
+![Jumpy Bricks](./docs/jumpy-bricks.gif)
+
+
+## Jumpy Bird Simulation
+
+Birds must navigated between pipes while avoiding crashing into the ground.
+
 
 ![Jumpy Bird](./docs/jumpybird-1.gif)
 

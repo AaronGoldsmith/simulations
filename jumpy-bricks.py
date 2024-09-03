@@ -171,7 +171,7 @@ def main():
 
         # Display generation and agent death information
         generation_text = font.render(f"Generation: {generation}", True, BLACK)
-        death_text = font.render(f"Agents dead: {num_dead_agents}/{POPULATION_SIZE}", True, BLACK)
+        death_text = font.render(f"Agents crashed: {num_dead_agents}/{POPULATION_SIZE}", True, BLACK)
         screen.blit(generation_text, (10, 10))
         screen.blit(death_text, (10, 50))
 
